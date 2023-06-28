@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **moayad.r.abdalraouf@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kmHLFtacZvwqmzoCy6CZMvZLpMWJ9bve/view](https://drive.google.com/file/d/1kmHLFtacZvwqmzoCy6CZMvZLpMWJ9bve/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moayad-rida-357523226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moayad-rida-357523226" height="30" width="40" /></a>
