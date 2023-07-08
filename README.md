@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moayadr&show_icons=true&theme=dark&locale=en" alt="moayadr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moayadr&theme=dark" alt="moayadr" /></p>
