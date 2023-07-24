@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moayad</h1>
 <h3 align="center">A passionate Back-end developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moayadr&label=Profile%20views&color=000000&style=plastic" alt="moayadr" /> </p>
 
 ![Social_dino-with-hat](https://github.com/MoayadR/MoayadR/assets/92552416/f41d6984-657d-4e0f-86b0-356a8941c678)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moayadr&label=Profile%20views&color=000000&style=plastic" alt="moayadr" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moayadr" alt="moayadr" /></a> </p>
 
